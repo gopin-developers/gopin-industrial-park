@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gopin-industrial-park/static/css/main.3a23ba0a.css",
+    "main.js": "/gopin-industrial-park/static/js/main.6be114f2.js",
+    "static/js/787.1624e415.chunk.js": "/gopin-industrial-park/static/js/787.1624e415.chunk.js",
+    "static/media/Gopin Industrial Park Brochure.pdf": "/gopin-industrial-park/static/media/Gopin Industrial Park Brochure.097a43d1ff87b7cac536.pdf",
+    "index.html": "/gopin-industrial-park/index.html",
+    "main.3a23ba0a.css.map": "/gopin-industrial-park/static/css/main.3a23ba0a.css.map",
+    "main.6be114f2.js.map": "/gopin-industrial-park/static/js/main.6be114f2.js.map",
+    "787.1624e415.chunk.js.map": "/gopin-industrial-park/static/js/787.1624e415.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a23ba0a.css",
+    "static/js/main.6be114f2.js"
+  ]
+}
