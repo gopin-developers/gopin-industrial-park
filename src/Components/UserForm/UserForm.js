@@ -60,6 +60,7 @@ const UserForm = () => {
                       <input
                         type="number"
                         className="form-control fs-6"
+                        
                         placeholder="Please enter your mobile number"
                         aria-label="mobileNumber"
                         aria-describedby="addon-wrapping"
