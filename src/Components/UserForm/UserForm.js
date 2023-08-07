@@ -31,6 +31,8 @@ const UserForm = () => {
       link.setAttribute('download', 'Gopin Industrial Park Brochure.pdf'); //or any other extension
       document.body.appendChild(link);
       link.click();
+      setMobileNumber("");
+      setError(false);
     //   setError(false);
     // }
     // else {
@@ -62,6 +64,7 @@ const UserForm = () => {
                         aria-label="mobileNumber"
                         aria-describedby="addon-wrapping"
                         required
+                        value={mobileNumber}
                         onChange={(e) => handleInputChange(e)}
                       />
 
